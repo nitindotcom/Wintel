@@ -1,7 +1,7 @@
 ## Wintel
 
 ## Tips
-## [Scripts](.Scripts.md)
+## [Scripts](./Scripts.md)
 
 ###                   CPU / Memory Issue
 
