@@ -10,40 +10,40 @@ Hey ! here u can find basic scipts for wintel team.
   
     - This script will perform basic clenup on c drive , it clears Recycle bin , CCMCache folder
 
-- [To Check Uptime](Section.UpTime.md)
+- [To Check Uptime](Scripts/UpTime.md)
   
     - It will help you to get to uptime of the server/ computer.
 
-- [To Get Patch details](Section.PatchDetails.md)
+- [To Get Patch details](Scripts/PatchDetails.md)
 
    -Simplifies the process of obtaining patch details, facilitating efficient management of system updates.
 
-- [To fix event flow alerts](Section.OVOagentRestart.md)
+- [To fix event flow alerts](Scripts/OVOagentRestart.md)
 
    - Addresses event flow alerts swiftly, ensuring smooth operation of systems by restarting OVO Agents.
 
 
-- [To Get Vendor details of any server](Section.VendorDetailComp.md)
+- [To Get Vendor details of any server](Scripts/VendorDetailComp.md)
 
    - Quickly fetches vendor details for any specified server, enhancing vendor management processes.
 
-- [To Get Eventflow logs using Date as var](Section.logsByDate.md)
+- [To Get Eventflow logs using Date as var](Scripts/logsByDate.md)
 
    - Facilitates the retrieval of event flow logs using a specified date as a variable, aiding in troubleshooting and analysis.
 
 
-- [To Get basic server details](Section.ServerDetails.md)
+- [To Get basic server details](Scripts/ServerDetails.md)
 
     - Retrieves fundamental information about servers, providing a comprehensive overview of system configurations.
 
-- [To get basic details of a particular service](Section.ServiceDetail.md)
+- [To get basic details of a particular service](Scripts/ServiceDetail.md)
 
     - Obtains basic details of a particular service, assisting in service management and troubleshooting.
 
-- [Health Check](Section.HealthCheck.md)
+- [Health Check](Scripts/HealthCheck.md)
 
     - Performs a thorough health check of servers, identifying potential issues and ensuring optimal performance.
 
-- [To fetch Cluster node details](Section.ClusterNodeDetails.md)
+- [To fetch Cluster node details](Scripts.ClusterNodeDetails.md)
 
     - Retrieves essential details of cluster nodes, aiding in the management and monitoring of clustered environments.
