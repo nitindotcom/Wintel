@@ -44,6 +44,6 @@ Hey ! here u can find basic scipts for wintel team.
 
     - Performs a thorough health check of servers, identifying potential issues and ensuring optimal performance.
 
-- [To fetch Cluster node details](Scripts.ClusterNodeDetails.md)
+- [To fetch Cluster node details](Scripts/ClusterNodeDetails.md)
 
     - Retrieves essential details of cluster nodes, aiding in the management and monitoring of clustered environments.
