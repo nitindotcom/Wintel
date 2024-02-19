@@ -7,4 +7,4 @@
     get-clustergroup
     get-clusterresource
 
-[**BACK**](.../README.md)
+[**BACK**](../README.md)
