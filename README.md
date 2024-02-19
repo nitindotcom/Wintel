@@ -1,5 +1,8 @@
 ## Wintel
 
+## Tips
+## [Scripts](.Scripts.md)
+
 ###                   CPU / Memory Issue
 
 We get these type of incidents when CPU (or) Memory utilization is high (Both should be <90%). 
