@@ -6,7 +6,7 @@ Hey ! here u can find basic scipts for wintel team.
  ![image](https://github.com/nitindotcom/Wintel/assets/71180362/b90689bf-3209-4809-a70a-c1ddd416dbe0)
 
 # Table of Content
-- [C Drive cleanup](Sections.Cdrive.md)
+- [C Drive cleanup](Section.Cdrive.md)
   
     - This script will perform basic clenup on c drive , it clears Recycle bin , CCMCache folder
 
@@ -23,7 +23,7 @@ Hey ! here u can find basic scipts for wintel team.
    - Addresses event flow alerts swiftly, ensuring smooth operation of systems by restarting OVO Agents.
 
 
-- [To Get Vendor details of any server](Section.VendonDetailComp.md)
+- [To Get Vendor details of any server](Section.VendorDetailComp.md)
 
    - Quickly fetches vendor details for any specified server, enhancing vendor management processes.
 
