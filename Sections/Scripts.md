@@ -47,3 +47,19 @@ Hey ! here u can find basic scipts for wintel team.
 - [To fetch Cluster node details](Scripts/ClusterNodeDetails.md)
 
     - Retrieves essential details of cluster nodes, aiding in the management and monitoring of clustered environments.
+
+-[DEVO/CLM Stale endpoints (Non-Compliant):](Scripts/Devo_clm.md)
+- 
+        1.         Check if subscriptionmanager is added in the regedit path below.
+
+              HKLM\SOFTWARE\Policies\Microsoft\Windows\EventLog\EventForwarding\SubscriptionManager 
+
+              Example: "Server=http://CB2574138.ad.cibc.com:5985/wsman/SubscriptionManager/WEC,Refresh=900" 
+
+        2.         Check if "NETWORK SERVICE" is added in "Event Log Readers" in local group
+
+        3.         Run the below commands.
+
+             %systemroot%\system32\klist.exe -lh 0 -li 0x3e4 purge
+             net stop winrm
+             net start winrm
